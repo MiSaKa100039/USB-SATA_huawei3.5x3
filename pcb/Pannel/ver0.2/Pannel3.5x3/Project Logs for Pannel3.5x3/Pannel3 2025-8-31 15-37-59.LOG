@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=HOT1 Pin=J2-P4
+Removed Pin From Net: NetName=DAS1 Pin=J2-P11
+Removed Pin From Net: NetName=HOT2 Pin=J3-P4
+Removed Pin From Net: NetName=DAS2 Pin=J3-P11
+Added Pin To Net: NetName=HOT2 Pin=J2-P4
+Added Pin To Net: NetName=DAS2 Pin=J2-P11
+Added Pin To Net: NetName=HOT3 Pin=J3-P4
+Added Pin To Net: NetName=DAS3 Pin=J3-P11
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-10
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin U1-12
+Add Pin To Net: Unknown Pin: Pin U1-13
+Add Pin To Net: Unknown Pin: Pin U1-14
+Add Pin To Net: Unknown Pin: Pin U1-15
+Add Pin To Net: Unknown Pin: Pin U1-16
+Add Pin To Net: Unknown Pin: Pin U1-17
+Add Pin To Net: Unknown Pin: Pin U1-19
+Add Pin To Net: Unknown Pin: Pin U1-20
+Add Pin To Net: Unknown Pin: Pin U1-21
+Add Differential Pair: Number of nets in differential pair cap_RX2 is 1 instead of 2
+Add Class Member: Failed to add class member : Component U1 MP8757

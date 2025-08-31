@@ -1,0 +1,25 @@
+Added Component: Designator=J5(USB3.1_Type-A Á¢Ê½Ö±²å)
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-10
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin U1-12
+Add Pin To Net: Unknown Pin: Pin U1-13
+Add Pin To Net: Unknown Pin: Pin U1-14
+Add Pin To Net: Unknown Pin: Pin U1-15
+Add Pin To Net: Unknown Pin: Pin U1-16
+Add Pin To Net: Unknown Pin: Pin U1-17
+Add Pin To Net: Unknown Pin: Pin U1-19
+Add Pin To Net: Unknown Pin: Pin U1-20
+Add Pin To Net: Unknown Pin: Pin U1-21
+Add Differential Pair: Number of nets in differential pair cap_RX2 is 1 instead of 2
+Added Member To Class: ClassName=connector Member=Component J5 USB3.1_Type-A
+Add Class Member: Failed to add class member : Component U1 MP8757
