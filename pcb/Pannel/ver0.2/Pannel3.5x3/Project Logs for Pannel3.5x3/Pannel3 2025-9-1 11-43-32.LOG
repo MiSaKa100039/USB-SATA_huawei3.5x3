@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=SSRX4_N Pin=C66-1
+Removed Pin From Net: NetName=SSRX3_N Pin=C67-1
+Removed Pin From Net: NetName=SSRX4_P Pin=C68-1
+Removed Pin From Net: NetName=SSRX3_P Pin=C69-1
+Removed Pin From Net: NetName=SSRX2_N Pin=C92-1
+Removed Pin From Net: NetName=SSRX2_P Pin=C93-1
+Removed Pin From Net: NetName=HSD4_N Pin=U3-13
+Removed Pin From Net: NetName=HSD4_P Pin=U3-15
+Removed Pin From Net: NetName=SSTX4_N Pin=U3-22
+Removed Pin From Net: NetName=SSTX4_P Pin=U3-23
+Removed Pin From Net: NetName=SSTX3_N Pin=U4-22
+Removed Pin From Net: NetName=SSTX3_P Pin=U4-23
+Removed Pin From Net: NetName=HSD2_N Pin=U7-13
+Removed Pin From Net: NetName=HSD2_P Pin=U7-15
+Removed Pin From Net: NetName=SSTX2_N Pin=U7-22
+Removed Pin From Net: NetName=SSTX2_P Pin=U7-23
+Added Pin To Net: NetName=SSRX1_N Pin=C66-1
+Added Pin To Net: NetName=SSRX2_N Pin=C67-1
+Added Pin To Net: NetName=SSRX1_P Pin=C68-1
+Added Pin To Net: NetName=SSRX2_P Pin=C69-1
+Added Pin To Net: NetName=SSRX3_N Pin=C92-1
+Added Pin To Net: NetName=SSRX3_P Pin=C93-1
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Added Pin To Net: NetName=HSD1_N Pin=U3-13
+Added Pin To Net: NetName=HSD1_P Pin=U3-15
+Added Pin To Net: NetName=SSTX1_N Pin=U3-22
+Added Pin To Net: NetName=SSTX1_P Pin=U3-23
+Added Pin To Net: NetName=SSTX2_N Pin=U4-22
+Added Pin To Net: NetName=SSTX2_P Pin=U4-23
+Added Pin To Net: NetName=HSD3_N Pin=U7-13
+Added Pin To Net: NetName=HSD3_P Pin=U7-15
+Added Pin To Net: NetName=SSTX3_N Pin=U7-22
+Added Pin To Net: NetName=SSTX3_P Pin=U7-23
+Change Net Name : Old Net Name=cap_SSRX2_N New Net Name=cap_SSRX3_N
+Change Net Name : Old Net Name=cap_SSRX2_P New Net Name=cap_SSRX3_P
+Change Net Name : Old Net Name=cap_SSRX3_N New Net Name=cap_SSRX2_N
+Change Net Name : Old Net Name=cap_SSRX3_P New Net Name=cap_SSRX2_P
+Change Net Name : Old Net Name=cap_SSRX4_N New Net Name=cap_SSRX1_N
+Change Net Name : Old Net Name=cap_SSRX4_P New Net Name=cap_SSRX1_P
+Added Differential Pair: Name=cap_SSRX1

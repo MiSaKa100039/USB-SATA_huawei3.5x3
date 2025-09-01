@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=PWR Member=VCC5V-A
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Added Member To Class: ClassName=PWR Member=Wire GND
+Added Member To Class: ClassName=PWR Member=Wire PGND

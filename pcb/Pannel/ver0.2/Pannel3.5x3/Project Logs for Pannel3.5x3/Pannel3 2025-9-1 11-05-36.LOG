@@ -1,0 +1,10 @@
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Added Member To Class: ClassName=SATA Member=Wire cap_RX1_N
+Added Member To Class: ClassName=SATA Member=Wire cap_RX2_N
+Added Member To Class: ClassName=SATA Member=Wire cap_TX1_N
+Added Member To Class: ClassName=SATA Member=Wire cap_TX1_P
+Added Member To Class: ClassName=SATA Member=Wire cap_TX2_N
+Added Member To Class: ClassName=SATA Member=Wire cap_TX2_P
