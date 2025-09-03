@@ -1,0 +1,25 @@
+Added Pin To Net: NetName=VCC5V Pin=J1-P7
+Added Pin To Net: NetName=VCC5V Pin=J1-P8
+Added Pin To Net: NetName=VCC5V Pin=J1-P9
+Added Pin To Net: NetName=VCC5V Pin=J2-P7
+Added Pin To Net: NetName=VCC5V Pin=J2-P8
+Added Pin To Net: NetName=VCC5V Pin=J2-P9
+Added Pin To Net: NetName=VCC5V Pin=J3-P7
+Added Pin To Net: NetName=VCC5V Pin=J3-P8
+Added Pin To Net: NetName=VCC5V Pin=J3-P9
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Change Net Color : Old Net Color=RGB(66, 28, 139) New Net Color=RGB(11, 83, 148)
+Change Net Color : Old Net Color=RGB(197, 0, 142) New Net Color=RGB(103, 78, 167)
+Change Net Color : Old Net Color=RGB(197, 0, 142) New Net Color=RGB(103, 78, 167)
+Change Net Color : Old Net Color=RGB(197, 0, 142) New Net Color=RGB(103, 78, 167)
+Change Net Color : Old Net Color=RGB(197, 0, 142) New Net Color=RGB(103, 78, 167)
+Change Net Color : Old Net Color=RGB(197, 0, 142) New Net Color=RGB(103, 78, 167)
+Change Net Color : Old Net Color=RGB(197, 0, 142) New Net Color=RGB(103, 78, 167)
+Change Net Color : Old Net Color=RGB(197, 0, 142) New Net Color=RGB(103, 78, 167)
+Change Net Color : Old Net Color=RGB(197, 0, 142) New Net Color=RGB(103, 78, 167)
+Change Net Color : Old Net Color=RGB(197, 0, 142) New Net Color=RGB(103, 78, 167)
+Change Net Color : Old Net Color=RGB(197, 0, 142) New Net Color=RGB(53, 28, 117)
+Change Net Color : Old Net Color=RGB(197, 0, 142) New Net Color=RGB(53, 28, 117)
