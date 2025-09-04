@@ -134,6 +134,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VEYJOUHV
 
+[Document6]
+DocumentPath=Pannel3.5x3.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JEMJFZDJ
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1129,6 +1146,22 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=GND|NetColor=$003891E6
+Net2=NetName=VBUS|NetColor=$00A74E67
+Net3=NetName=VCC12V|NetColor=$00751C35
+Net4=NetName=VCC1V0|NetColor=$00A74E67
+Net5=NetName=VCC1V2-A|NetColor=$00A74E67
+Net6=NetName=VCC1V2-B|NetColor=$00A74E67
+Net7=NetName=VCC1V2-C|NetColor=$00A74E67
+Net8=NetName=VCC3V3|NetColor=$00A74E67
+Net9=NetName=VCC3V3-A|NetColor=$00A74E67
+Net10=NetName=VCC3V3-B|NetColor=$00A74E67
+Net11=NetName=VCC3V3-C|NetColor=$00A74E67
+Net12=NetName=VCC5V|NetColor=$00751C35
+Net13=NetName=VCC5V-A|NetColor=$00A74E67
+Net14=NetName=VIN|NetColor=$00751C35
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=DAS3 Pin=LED4-2
+Removed Pin From Net: NetName=DAS2 Pin=LED6-2
+Removed Pin From Net: NetName=DAS1 Pin=LED8-2
+Removed Pin From Net: NetName=VCC3V3 Pin=R18-1
+Removed Pin From Net: NetName=VCC3V3 Pin=R19-1
+Removed Member From Class: ClassName=connector Member=LED1
+Removed Member From Class: ClassName=connector Member=LED2
+Removed Member From Class: ClassName=connector Member=R18
+Removed Member From Class: ClassName=connector Member=R19
+Added Pin To Net: NetName=GPIO4-A Pin=LED4-2
+Added Pin To Net: NetName=GPIO4-B Pin=LED6-2
+Added Pin To Net: NetName=GPIO4-C Pin=LED8-2
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
