@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=R8-2
+Removed Member From Class: ClassName=pwr Member=R8
+Removed Member From Class: ClassName=PWR Member=PGND
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Added Pin To Net: NetName=GND Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U1-20
+Added Pin To Net: NetName=GND Pin=U1-21
