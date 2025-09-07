@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Pannel3.5x3.PcbDoc   2025/9/6  22:12:55
+NCDrill File Report For: Pannel3.5x3.PcbDoc   2025/9/7  16:12:40
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : SIGNAL to SIGNAL
@@ -9,7 +9,7 @@ EIA File   : Pannel3.5x3.DRL
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             434       PTH        1020.85mm (40.19inch)
+T1      0.3mm (12mil)                                             Round             434       PTH        1020.68mm (40.18inch)
 T2      0.7mm (28mil)                                             Round             4         PTH        13.40mm (0.53inch)
 T3      0.7mm (28mil)                                             Slot              2         PTH        9.24mm (0.36inch)
 T4      0.701mm (28mil)                                           Round             9         PTH        15.66mm (0.62inch)
