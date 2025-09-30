@@ -1,0 +1,12 @@
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Added Pin To Net: NetName=IN_SSRX1_P Pin=U11-1
+Added Pin To Net: NetName=IN_SSRX1_N Pin=U11-2
+Added Pin To Net: NetName=IN_SSRX2_N Pin=U11-4
+Added Pin To Net: NetName=IN_SSRX2_P Pin=U11-5
+Added Pin To Net: NetName=IN_SSRX2_P Pin=U11-6
+Added Pin To Net: NetName=IN_SSRX2_N Pin=U11-7
+Added Pin To Net: NetName=IN_SSRX1_N Pin=U11-9
+Added Pin To Net: NetName=IN_SSRX1_P Pin=U11-10

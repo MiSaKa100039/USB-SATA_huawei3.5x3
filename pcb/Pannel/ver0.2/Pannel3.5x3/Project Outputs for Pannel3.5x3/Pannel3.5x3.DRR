@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Pannel3.5x3.PcbDoc   2025/9/8  12:50:00
+NCDrill File Report For: Pannel3.5x3.PcbDoc   2025/9/30  15:49:23
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : SIGNAL to SIGNAL
@@ -9,7 +9,7 @@ EIA File   : Pannel3.5x3.DRL
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             434       PTH        1020.68mm (40.18inch)
+T1      0.3mm (12mil)                                             Round             439       PTH        1017.78mm (40.07inch)
 T2      0.7mm (28mil)                                             Round             4         PTH        13.40mm (0.53inch)
 T3      0.7mm (28mil)                                             Slot              2         PTH        9.24mm (0.36inch)
 T4      0.701mm (28mil)                                           Round             9         PTH        15.66mm (0.62inch)
@@ -17,6 +17,6 @@ T5      0.9mm (35mil)                                             Slot          
 T6      2.309mm (91mil)                                           Round             2         PTH        12.80mm (0.50inch)
 T7      1.2mm (47mil)                                             Round             6         NPTH       188.50mm (7.42inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              458
+Totals                                                                              463
 
 Total Processing Time (hh:mm:ss) : 00:00:01
