@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=J1-SH1
+Removed Pin From Net: NetName=VCC3V3-A Pin=R32-1
+Removed Pin From Net: NetName=VCC3V3-B Pin=R33-1
+Removed Pin From Net: NetName=VCC3V3-C Pin=R37-1
+Change Component Footprint: Designator=L4 Old Footprint=NR2520 New Footprint=SMMS0420
+Change Component Footprint: Designator=L5 Old Footprint=NR2520 New Footprint=SMMS0420
+Change Component Footprint: Designator=L6 Old Footprint=NR2520 New Footprint=SMMS0420
+Added Component: Designator=TP1(m3内嵌螺母贴片)
+Add component (AddParameter): Name = "BOM名称"; Value = "测试点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R32-1
+Added Pin To Net: NetName=GND Pin=R33-1
+Added Pin To Net: NetName=GND Pin=R37-1
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Added Member To Class: ClassName=connector Member=Component TP1 M3hole

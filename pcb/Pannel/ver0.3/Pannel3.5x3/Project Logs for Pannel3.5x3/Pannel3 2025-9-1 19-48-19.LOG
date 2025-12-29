@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=U11-3
+Removed Pin From Net: NetName=IN_SSTX2_P Pin=U11-6
+Removed Pin From Net: NetName=IN_SSTX2_N Pin=U11-7
+Removed Pin From Net: NetName=GND Pin=U11-8
+Removed Pin From Net: NetName=IN_SSTX1_N Pin=U11-9
+Removed Pin From Net: NetName=IN_SSTX1_P Pin=U11-10
+Removed Pin From Net: NetName=GND Pin=U12-3
+Removed Pin From Net: NetName=IN_SSRX2_P Pin=U12-6
+Removed Pin From Net: NetName=IN_SSRX2_N Pin=U12-7
+Removed Pin From Net: NetName=GND Pin=U12-8
+Removed Pin From Net: NetName=IN_SSRX1_N Pin=U12-9
+Removed Pin From Net: NetName=IN_SSRX1_P Pin=U12-10
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1

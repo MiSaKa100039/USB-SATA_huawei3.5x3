@@ -1,0 +1,87 @@
+Removed Pin From Net: NetName=TX1_P Pin=C18-2
+Removed Pin From Net: NetName=TX1_P Pin=C19-2
+Removed Pin From Net: NetName=TX2_P Pin=C20-2
+Removed Pin From Net: NetName=TX1_N Pin=C21-2
+Removed Pin From Net: NetName=TX1_N Pin=C22-2
+Removed Pin From Net: NetName=TX2_N Pin=C23-2
+Removed Pin From Net: NetName=RX1_N Pin=C24-2
+Removed Pin From Net: NetName=RX1_N Pin=C25-2
+Removed Pin From Net: NetName=RX2_N Pin=C26-2
+Removed Pin From Net: NetName=RX1_P Pin=C27-2
+Removed Pin From Net: NetName=cap_RX1_P Pin=C28-1
+Removed Pin From Net: NetName=cap_RX2_P Pin=C29-1
+Removed Pin From Net: NetName=HOT1 Pin=J1-P4
+Removed Pin From Net: NetName=DAS1 Pin=J1-P11
+Removed Pin From Net: NetName=cap_RX1_P Pin=J2-S6
+Removed Pin From Net: NetName=HOT3 Pin=J3-P4
+Removed Pin From Net: NetName=DAS3 Pin=J3-P11
+Removed Pin From Net: NetName=cap_RX2_P Pin=J3-S6
+Removed Pin From Net: NetName=RX3_P Pin=U4-30
+Removed Pin From Net: NetName=RX3_N Pin=U4-31
+Removed Pin From Net: NetName=TX3_N Pin=U4-33
+Removed Pin From Net: NetName=TX3_P Pin=U4-34
+Removed Pin From Net: NetName=RX2_P Pin=U7-30
+Removed Pin From Net: NetName=RX2_N Pin=U7-31
+Removed Pin From Net: NetName=TX2_N Pin=U7-33
+Removed Pin From Net: NetName=TX2_P Pin=U7-34
+Added Pin To Net: NetName=TX3_P Pin=C18-2
+Added Pin To Net: NetName=TX2_P Pin=C19-2
+Added Pin To Net: NetName=TX1_P Pin=C20-2
+Added Pin To Net: NetName=TX3_N Pin=C21-2
+Added Pin To Net: NetName=TX2_N Pin=C22-2
+Added Pin To Net: NetName=TX1_N Pin=C23-2
+Added Pin To Net: NetName=RX3_N Pin=C24-2
+Added Pin To Net: NetName=RX2_N Pin=C25-2
+Added Pin To Net: NetName=RX1_N Pin=C26-2
+Added Pin To Net: NetName=RX3_P Pin=C27-2
+Added Pin To Net: NetName=cap_RX2_P Pin=C28-1
+Added Pin To Net: NetName=cap_RX1_P Pin=C29-1
+Added Pin To Net: NetName=HOT3 Pin=J1-P4
+Added Pin To Net: NetName=DAS3 Pin=J1-P11
+Added Pin To Net: NetName=cap_RX2_P Pin=J2-S6
+Added Pin To Net: NetName=HOT1 Pin=J3-P4
+Added Pin To Net: NetName=DAS1 Pin=J3-P11
+Added Pin To Net: NetName=cap_RX1_P Pin=J3-S6
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Added Pin To Net: NetName=RX1_P Pin=U3-30
+Added Pin To Net: NetName=RX1_N Pin=U3-31
+Added Pin To Net: NetName=TX1_N Pin=U3-33
+Added Pin To Net: NetName=TX1_P Pin=U3-34
+Added Pin To Net: NetName=RX2_P Pin=U4-30
+Added Pin To Net: NetName=RX2_N Pin=U4-31
+Added Pin To Net: NetName=TX2_N Pin=U4-33
+Added Pin To Net: NetName=TX2_P Pin=U4-34
+Added Pin To Net: NetName=RX3_P Pin=U7-30
+Added Pin To Net: NetName=RX3_N Pin=U7-31
+Added Pin To Net: NetName=TX3_N Pin=U7-33
+Added Pin To Net: NetName=TX3_P Pin=U7-34
+Change Net Name : Old Net Name=cap_RX2_N New Net Name=cap_RX1_N
+Change Net Name : Old Net Name=cap_TX2_N New Net Name=cap_TX1_N
+Change Net Name : Old Net Name=cap_TX2_P New Net Name=cap_TX1_P
+Added Pin To Net: NetName=cap_RX2_N Pin=C25-1
+Added Pin To Net: NetName=cap_RX2_N Pin=J2-S5
+Added Net: Name=cap_RX2_N
+Added Pin To Net: NetName=cap_RX3_N Pin=C24-1
+Added Pin To Net: NetName=cap_RX3_N Pin=J1-S5
+Added Net: Name=cap_RX3_N
+Added Pin To Net: NetName=cap_TX2_N Pin=C22-1
+Added Pin To Net: NetName=cap_TX2_N Pin=J2-S3
+Added Net: Name=cap_TX2_N
+Added Pin To Net: NetName=cap_TX2_P Pin=C19-1
+Added Pin To Net: NetName=cap_TX2_P Pin=J2-S2
+Added Net: Name=cap_TX2_P
+Added Pin To Net: NetName=cap_TX3_N Pin=C21-1
+Added Pin To Net: NetName=cap_TX3_N Pin=J1-S3
+Added Net: Name=cap_TX3_N
+Added Pin To Net: NetName=cap_TX3_P Pin=C18-1
+Added Pin To Net: NetName=cap_TX3_P Pin=J1-S2
+Added Net: Name=cap_TX3_P
+Added Class: Name=SATA
+Added Class: Name=USB
+Add Differential Pair: Number of nets in differential pair cap_RX3 is 1 instead of 2
+Added Differential Pair: Name=cap_TX3
+Added Differential Pair: Name=RX1
+Added Differential Pair: Name=TX1

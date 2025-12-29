@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=IN_SSRX1_N Pin=U12-9
+Removed Pin From Net: NetName=IN_SSRX1_P Pin=U12-10
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Added Pin To Net: NetName=IN_SSRX1_P Pin=U12-9
+Added Pin To Net: NetName=IN_SSRX1_N Pin=U12-10

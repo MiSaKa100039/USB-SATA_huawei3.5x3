@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=cap_IN_SSTX2_P Pin=U11-1
+Removed Pin From Net: NetName=cap_IN_SSTX2_N Pin=U11-2
+Removed Pin From Net: NetName=IN_SSTX2_P Pin=U11-6
+Removed Pin From Net: NetName=IN_SSTX2_N Pin=U11-7
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Added Pin To Net: NetName=cap_IN_SSTX2_N Pin=U11-1
+Added Pin To Net: NetName=cap_IN_SSTX2_P Pin=U11-2
+Added Pin To Net: NetName=IN_SSTX2_N Pin=U11-6
+Added Pin To Net: NetName=IN_SSTX2_P Pin=U11-7

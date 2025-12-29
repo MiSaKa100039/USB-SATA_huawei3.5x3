@@ -1,0 +1,31 @@
+Change Component Footprint: Designator=LED2 Old Footprint=LED0805_W New Footprint=LED 0805G
+Change Component Footprint: Designator=LED4 Old Footprint=LED0805_W New Footprint=LED 0805G
+Change Component Footprint: Designator=LED6 Old Footprint=LED0805_W New Footprint=LED 0805G
+Change Component Footprint: Designator=LED8 Old Footprint=LED0805_W New Footprint=LED 0805G
+Change Component Footprint: Designator=LED1 Old Footprint=LED 0805G New Footprint=LED 0805B
+Change Component Footprint: Designator=LED3 Old Footprint=LED 0805G New Footprint=LED 0805B
+Change Component Footprint: Designator=LED5 Old Footprint=LED 0805G New Footprint=LED 0805B
+Change Component Footprint: Designator=LED7 Old Footprint=LED 0805G New Footprint=LED 0805B
+Change Component Comment : Designator=LED1 Old Comment=green New Comment=blue
+Change Component Comment : Designator=LED3 Old Comment=green New Comment=blue
+Change Component Comment : Designator=LED5 Old Comment=green New Comment=blue
+Change Component Comment : Designator=LED7 Old Comment=green New Comment=blue
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-10
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin U1-12
+Add Pin To Net: Unknown Pin: Pin U1-13
+Add Pin To Net: Unknown Pin: Pin U1-14
+Add Pin To Net: Unknown Pin: Pin U1-15
+Add Pin To Net: Unknown Pin: Pin U1-16
+Add Pin To Net: Unknown Pin: Pin U1-17
+Add Pin To Net: Unknown Pin: Pin U1-19
+Add Pin To Net: Unknown Pin: Pin U1-20
+Add Pin To Net: Unknown Pin: Pin U1-21
+Add Differential Pair: Number of nets in differential pair cap_RX2 is 1 instead of 2
+Add Class Member: Failed to add class member : Component U1 MP8757

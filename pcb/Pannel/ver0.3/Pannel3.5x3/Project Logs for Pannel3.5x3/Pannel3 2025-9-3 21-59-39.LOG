@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=VBUS Pin=J5-1
+Added Pin To Net: NetName=HSD3_N Pin=J5-2
+Added Pin To Net: NetName=HSD3_P Pin=J5-3
+Added Pin To Net: NetName=GND Pin=J5-4
+Added Pin To Net: NetName=SSRX3_N Pin=J5-5
+Added Pin To Net: NetName=SSRX3_P Pin=J5-6
+Added Pin To Net: NetName=GND Pin=J5-7
+Added Pin To Net: NetName=SSTX3_N Pin=J5-8
+Added Pin To Net: NetName=SSTX3_P Pin=J5-9
+Added Pin To Net: NetName=GND Pin=J5-10
+Added Pin To Net: NetName=GND Pin=J5-11
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1

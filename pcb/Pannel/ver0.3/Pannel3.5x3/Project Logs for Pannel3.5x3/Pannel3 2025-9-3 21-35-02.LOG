@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=RX1_P Pin=C28-2
+Removed Pin From Net: NetName=RX2_P Pin=C29-2
+Added Pin To Net: NetName=RX2_P Pin=C28-2
+Added Pin To Net: NetName=RX1_P Pin=C29-2
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1

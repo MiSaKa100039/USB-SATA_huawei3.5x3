@@ -1,0 +1,14 @@
+Added Component: Designator=MR1(Mark 1)
+Add component (AddParameter): Name = "BOM名称"; Value = "光学定位点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=MR2(Mark 1)
+Add component (AddParameter): Name = "BOM名称"; Value = "光学定位点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Added Member To Class: ClassName=pwr Member=Component MR1 MARK1.6
+Added Member To Class: ClassName=pwr Member=Component MR2 MARK1.6
