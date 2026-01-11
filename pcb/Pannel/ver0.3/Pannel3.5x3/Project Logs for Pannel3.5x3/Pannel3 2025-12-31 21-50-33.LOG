@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=E1 Old Footprint=CS 6*4 - B New Footprint=CS 6*4 - R
+Change Component Footprint: Designator=E2 Old Footprint=CS 6*4 - B New Footprint=CS 6*4 - R
+Change Component Footprint: Designator=E3 Old Footprint=CS 6*4 - B New Footprint=CS 6*4 - R
+Change Component Footprint: Designator=E4 Old Footprint=CS 6*4 - B New Footprint=CS 6*4 - R
+Change Component Footprint: Designator=E5 Old Footprint=CS 6*4 - B New Footprint=CS 6*4 - R
+Change Component Footprint: Designator=E6 Old Footprint=CS 6*4 - B New Footprint=CS 6*4 - R
+Change Component Footprint: Designator=E7 Old Footprint=CS 6*4 - B New Footprint=CS 6*4 - R
+Change Component Footprint: Designator=E8 Old Footprint=CS 6*4 - B New Footprint=CS 6*4 - R
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1

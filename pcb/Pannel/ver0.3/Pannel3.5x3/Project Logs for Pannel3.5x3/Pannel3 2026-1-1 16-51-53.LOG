@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=JP1-0
+Removed Pin From Net: NetName=GND Pin=JP1-0
+Change Footprint: Cannot match pads with new footprint in component :Q1 Footprint:SOP8_L
+Add Pin To Net: Unknown Pin: Pin Q1-6
+Add Pin To Net: Unknown Pin: Pin Q1-7
+Add Pin To Net: Unknown Pin: Pin Q1-8
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1

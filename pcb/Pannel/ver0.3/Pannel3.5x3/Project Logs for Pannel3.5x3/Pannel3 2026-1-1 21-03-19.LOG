@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=J3-SH2
+Added Component: Designator=TP1(m3内嵌螺母贴片)
+Add component (AddParameter): Name = "BOM名称"; Value = "测试点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=TP2(m3内嵌螺母贴片)
+Add component (AddParameter): Name = "BOM名称"; Value = "测试点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=TP3(m3内嵌螺母贴片)
+Add component (AddParameter): Name = "BOM名称"; Value = "测试点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=TP4(m3内嵌螺母贴片)
+Add component (AddParameter): Name = "BOM名称"; Value = "测试点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC3.3V-VL822 Pin=R20-1
+Added Pin To Net: NetName=VCC3.3V-VL822 Pin=R21-1
+Added Pin To Net: NetName=VCC3.3V-VL822 Pin=R22-1
+Added Pin To Net: NetName=VCC3.3V-VL822 Pin=R23-1
+Added Pin To Net: NetName=VCC3.3V-VL822 Pin=R24-1
+Added Pin To Net: NetName=VCC3.3V-VL822 Pin=R25-1
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Added Member To Class: ClassName=connector Member=Component TP1 M3hole
+Added Member To Class: ClassName=connector Member=Component TP2 M3hole
+Added Member To Class: ClassName=connector Member=Component TP3 M3hole
+Added Member To Class: ClassName=connector Member=Component TP4 M3hole

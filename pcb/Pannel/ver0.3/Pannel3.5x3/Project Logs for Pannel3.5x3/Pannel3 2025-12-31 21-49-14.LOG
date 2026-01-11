@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=VCC3.3V-VL822 Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=VCC5V-A Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=VCC1.05V-VL822 Pin=C136-1
+Removed Pin From Net: NetName=GND Pin=C136-2
+Removed Pin From Net: NetName=VCC5V-B Pin=C138-1
+Removed Pin From Net: NetName=GND Pin=C138-2
+Removed Pin From Net: NetName=VCC5V-C Pin=C145-1
+Removed Pin From Net: NetName=GND Pin=C145-2
+Removed Member From Class: ClassName=pwr Member=C12
+Removed Member From Class: ClassName=pwr Member=C14
+Removed Member From Class: ClassName=pwr Member=C136
+Removed Member From Class: ClassName=pwr Member=C138
+Removed Member From Class: ClassName=pwr Member=C145
+Change Component Comment : Designator=E1 Old Comment=100uF/25V New Comment=47uF/16V
+Change Component Comment : Designator=E2 Old Comment=100uF/25V New Comment=47uF/16V
+Change Component Comment : Designator=E3 Old Comment=100uF/25V New Comment=47uF/16V
+Change Component Comment : Designator=E4 Old Comment=100uF/25V New Comment=47uF/16V
+Change Component Comment : Designator=E5 Old Comment=100uF/25V New Comment=47uF/16V
+Change Component Comment : Designator=E6 Old Comment=100uF/25V New Comment=47uF/16V
+Change Component Comment : Designator=E7 Old Comment=100uF/25V New Comment=47uF/16V
+Change Component Comment : Designator=E8 Old Comment=100uF/25V New Comment=47uF/16V
+Added Component: Designator=E9(CS 6*4 - B)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E10(CS 6*4 - B)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E11(CS 6*4 - B)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E12(CS 6*4 - B)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E13(CS 6*4 - B)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC12V Pin=E1-1
+Added Pin To Net: NetName=VCC12V Pin=E2-1
+Added Pin To Net: NetName=VCC12V Pin=E5-1
+Added Pin To Net: NetName=VCC12V Pin=E6-1
+Added Pin To Net: NetName=VCC3.3V-VL822 Pin=E9-1
+Added Pin To Net: NetName=GND Pin=E9-2
+Added Pin To Net: NetName=VCC5V-A Pin=E10-1
+Added Pin To Net: NetName=GND Pin=E10-2
+Added Pin To Net: NetName=VCC1.05V-VL822 Pin=E11-1
+Added Pin To Net: NetName=GND Pin=E11-2
+Added Pin To Net: NetName=VCC5V-B Pin=E12-1
+Added Pin To Net: NetName=GND Pin=E12-2
+Added Pin To Net: NetName=VCC5V-C Pin=E13-1
+Added Pin To Net: NetName=GND Pin=E13-2
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Added Member To Class: ClassName=pwr Member=Component E9 220uF/10V
+Added Member To Class: ClassName=pwr Member=Component E10 220uF/10V
+Added Member To Class: ClassName=pwr Member=Component E11 220uF/10V
+Added Member To Class: ClassName=pwr Member=Component E12 220uF/10V
+Added Member To Class: ClassName=pwr Member=Component E13 220uF/10V

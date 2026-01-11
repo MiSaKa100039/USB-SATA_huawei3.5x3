@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=VCC3.3V-VL822 Pin=C1-1
+Removed Pin From Net: NetName=VCC3.3V-VL822 Pin=C9-2
+Removed Pin From Net: NetName=VCC3.3V-VL822 Pin=C11-1
+Removed Pin From Net: NetName=VCC1.05V-VL822 Pin=C15-1
+Removed Pin From Net: NetName=VCC1.05V-VL822 Pin=C133-2
+Removed Pin From Net: NetName=VCC1.05V-VL822 Pin=C135-1
+Removed Pin From Net: NetName=VCC3.3V-VL822 Pin=E9-1
+Removed Pin From Net: NetName=VCC1.05V-VL822 Pin=E11-1
+Removed Pin From Net: NetName=VCC3.3V-VL822 Pin=L1-2
+Removed Pin From Net: NetName=VCC1.05V-VL822 Pin=L3-2
+Removed Pin From Net: NetName=VCC3.3V-VL822 Pin=R1-1
+Removed Pin From Net: NetName=VCC1.05V-VL822 Pin=R5-1
+Change Component Comment : Designator=L3 Old Comment=1.5uH New Comment=4.7uH
+Change Component Comment : Designator=L1 Old Comment=4.7uH New Comment=1.5uH
+Change Component Comment : Designator=R3 Old Comment=22.1K 1% New Comment=66.5K 1%
+Change Component Comment : Designator=C9 Old Comment=56PF 50V New Comment=150PF 50V
+Change Component Comment : Designator=R7 Old Comment=66.5K 1% New Comment=22.1K 1%
+Change Component Comment : Designator=C133 Old Comment=150PF 50V New Comment=56PF 50V
+Added Pin To Net: NetName=VCC1.05V-VL822 Pin=C1-1
+Added Pin To Net: NetName=VCC1.05V-VL822 Pin=C9-2
+Added Pin To Net: NetName=VCC1.05V-VL822 Pin=C11-1
+Added Pin To Net: NetName=VCC3.3V-VL822 Pin=C15-1
+Added Pin To Net: NetName=VCC3.3V-VL822 Pin=C133-2
+Added Pin To Net: NetName=VCC3.3V-VL822 Pin=C135-1
+Added Pin To Net: NetName=VCC1.05V-VL822 Pin=E9-1
+Added Pin To Net: NetName=VCC3.3V-VL822 Pin=E11-1
+Added Pin To Net: NetName=VCC1.05V-VL822 Pin=L1-2
+Added Pin To Net: NetName=VCC3.3V-VL822 Pin=L3-2
+Added Pin To Net: NetName=VCC1.05V-VL822 Pin=R1-1
+Added Pin To Net: NetName=VCC3.3V-VL822 Pin=R5-1
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1

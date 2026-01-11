@@ -1,0 +1,84 @@
+Removed Pin From Net: NetName=VCC3.3V-VL822 Pin=C1_1-1
+Removed Pin From Net: NetName=GND Pin=C1_1-2
+Removed Pin From Net: NetName=VCC5V-A Pin=C2_1-1
+Removed Pin From Net: NetName=GND Pin=C2_1-2
+Removed Pin From Net: NetName=VCC5V-A Pin=C2_2-1
+Removed Pin From Net: NetName=GND Pin=C2_2-2
+Removed Pin From Net: NetName=NetC3_1 Pin=C3_1-1
+Removed Pin From Net: NetName=NetC3_2 Pin=C3_1-2
+Removed Pin From Net: NetName=NetC4_1 Pin=C4_1-1
+Removed Pin From Net: NetName=NetC4_2 Pin=C4_1-2
+Removed Pin From Net: NetName=NetC4_1 Pin=C4_2-1
+Removed Pin From Net: NetName=NetC4_2 Pin=C4_2-2
+Removed Pin From Net: NetName=GND Pin=C5_1-1
+Removed Pin From Net: NetName=VBUS Pin=C5_1-2
+Removed Pin From Net: NetName=GND Pin=C6_1-1
+Removed Pin From Net: NetName=VBUS Pin=C6_1-2
+Removed Pin From Net: NetName=GND Pin=C7_1-1
+Removed Pin From Net: NetName=VCC12V Pin=C7_1-2
+Removed Pin From Net: NetName=GND Pin=C7_2-1
+Removed Pin From Net: NetName=VCC12V Pin=C7_2-2
+Removed Pin From Net: NetName=GND Pin=C8_1-1
+Removed Pin From Net: NetName=VCC12V Pin=C8_1-2
+Removed Pin From Net: NetName=GND Pin=C8_2-1
+Removed Pin From Net: NetName=VCC12V Pin=C8_2-2
+Removed Pin From Net: NetName=NetC9_1 Pin=C9_1-1
+Removed Pin From Net: NetName=VCC3.3V-VL822 Pin=C9_1-2
+Removed Pin From Net: NetName=NetC10_1 Pin=C10_1-1
+Removed Pin From Net: NetName=VCC5V-A Pin=C10_1-2
+Removed Pin From Net: NetName=NetC10_1 Pin=C10_2-1
+Removed Pin From Net: NetName=VCC5V-A Pin=C10_2-2
+Removed Pin From Net: NetName=VCC3.3V-VL822 Pin=C11_1-1
+Removed Pin From Net: NetName=GND Pin=C11_1-2
+Removed Pin From Net: NetName=VCC5V-A Pin=C13_1-1
+Removed Pin From Net: NetName=GND Pin=C13_1-2
+Removed Pin From Net: NetName=VCC5V-A Pin=C13_2-1
+Removed Pin From Net: NetName=GND Pin=C13_2-2
+Removed Pin From Net: NetName=VCC3.3V-VL822 Pin=E9_1-1
+Removed Pin From Net: NetName=GND Pin=E9_1-2
+Removed Pin From Net: NetName=VCC5V-A Pin=E10_1-1
+Removed Pin From Net: NetName=GND Pin=E10_1-2
+Removed Pin From Net: NetName=VCC5V-A Pin=E10_2-1
+Removed Pin From Net: NetName=GND Pin=E10_2-2
+Removed Pin From Net: NetName=NetC3_2 Pin=L1_1-1
+Removed Pin From Net: NetName=VCC3.3V-VL822 Pin=L1_1-2
+Removed Pin From Net: NetName=NetC4_2 Pin=L2_1-1
+Removed Pin From Net: NetName=VCC5V-A Pin=L2_1-2
+Removed Pin From Net: NetName=NetC4_2 Pin=L2_2-1
+Removed Pin From Net: NetName=VCC5V-A Pin=L2_2-2
+Removed Pin From Net: NetName=VCC3.3V-VL822 Pin=R1_1-1
+Removed Pin From Net: NetName=NetC9_1 Pin=R1_1-2
+Removed Pin From Net: NetName=VCC5V-A Pin=R2_1-1
+Removed Pin From Net: NetName=NetC10_1 Pin=R2_1-2
+Removed Pin From Net: NetName=VCC5V-A Pin=R2_2-1
+Removed Pin From Net: NetName=NetC10_1 Pin=R2_2-2
+Removed Pin From Net: NetName=NetC9_1 Pin=R3_1-1
+Removed Pin From Net: NetName=GND Pin=R3_1-2
+Removed Pin From Net: NetName=NetC10_1 Pin=R4_1-1
+Removed Pin From Net: NetName=GND Pin=R4_1-2
+Removed Pin From Net: NetName=NetC10_1 Pin=R4_2-1
+Removed Pin From Net: NetName=GND Pin=R4_2-2
+Removed Pin From Net: NetName=GND Pin=U1_1-1
+Removed Pin From Net: NetName=NetC3_2 Pin=U1_1-2
+Removed Pin From Net: NetName=VBUS Pin=U1_1-3
+Removed Pin From Net: NetName=NetC9_1 Pin=U1_1-4
+Removed Pin From Net: NetName=NetC3_1 Pin=U1_1-6
+Removed Pin From Net: NetName=GND Pin=U2_1-1
+Removed Pin From Net: NetName=NetC4_2 Pin=U2_1-2
+Removed Pin From Net: NetName=VCC12V Pin=U2_1-3
+Removed Pin From Net: NetName=NetC10_1 Pin=U2_1-4
+Removed Pin From Net: NetName=NetC4_1 Pin=U2_1-6
+Removed Pin From Net: NetName=GND Pin=U2_2-1
+Removed Pin From Net: NetName=NetC4_2 Pin=U2_2-2
+Removed Pin From Net: NetName=VCC12V Pin=U2_2-3
+Removed Pin From Net: NetName=NetC10_1 Pin=U2_2-4
+Removed Pin From Net: NetName=NetC4_1 Pin=U2_2-6
+Added Component: Designator=TP3(m3内嵌螺母贴片)
+Add component (AddParameter): Name = "BOM名称"; Value = "测试点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Added Member To Class: ClassName=connector Member=Component TP3 M3hole

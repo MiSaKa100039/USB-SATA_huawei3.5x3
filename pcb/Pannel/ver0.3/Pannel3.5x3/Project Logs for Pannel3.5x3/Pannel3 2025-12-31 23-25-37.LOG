@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=NetC127_2 Pin=Q1-1
+Removed Pin From Net: NetName=VIN Pin=Q1-2
+Removed Pin From Net: NetName=VIN Pin=Q1-2
+Removed Pin From Net: NetName=VIN Pin=Q1-2
+Removed Pin From Net: NetName=VCC12V Pin=Q1-3
+Removed Pin From Net: NetName=VCC12V Pin=Q1-3
+Removed Pin From Net: NetName=VCC12V Pin=Q1-3
+Removed Pin From Net: NetName=VCC12V Pin=Q1-3
+Added Component: Designator=Q2(DFN8_5*6)
+Add component (AddParameter): Name = "BOM名称"; Value = "场效应管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "描述"; Value = "P沟道 30V/4.2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=Q2-1
+Added Pin To Net: NetName=VIN Pin=Q2-2
+Added Pin To Net: NetName=VIN Pin=Q2-3
+Added Pin To Net: NetName=NetC127_2 Pin=Q2-4
+Added Pin To Net: NetName=VCC12V Pin=Q2-5
+Added Pin To Net: NetName=VCC12V Pin=Q2-5
+Added Pin To Net: NetName=VCC12V Pin=Q2-5
+Added Pin To Net: NetName=VCC12V Pin=Q2-5
+Added Pin To Net: NetName=VCC12V Pin=Q2-5
+Add Pin To Net: Unknown Pin: Pin TP1-1
+Add Pin To Net: Unknown Pin: Pin TP2-1
+Add Pin To Net: Unknown Pin: Pin TP3-1
+Add Pin To Net: Unknown Pin: Pin TP4-1
+Added Member To Class: ClassName=pwr Member=Component Q2 Pmos_DFN8_5*6
